@@ -1,3 +1,8 @@
-site_name: Michał Żołądek
+site_name: Michał Żołądek - Baza wiedzy
 theme:
  name: material
+
+
+nav:
+ - Strona główna: index.md
+ - Kontakt: kontakt.md 
