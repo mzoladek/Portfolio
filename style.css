@@ -16,7 +16,7 @@ body {
 
 .terminal {
   width: 100%;
-  max-width: 760px;
+  max-width: 1680px;
   background: #000000;
   border: 1px solid #2a2a2a;
 }
@@ -49,7 +49,7 @@ body {
 
 .screen {
   padding: 24px;
-  color: #33ff33;
+  color: #eed707;
   font-size: 18px;
   line-height: 1.6;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .output.name {
-  color: #33ff33;
+  color: #ff3333;
   font-size: 28px;
   font-weight: normal;
   margin-top: 6px;
